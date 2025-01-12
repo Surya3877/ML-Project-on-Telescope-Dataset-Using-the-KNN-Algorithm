@@ -1,11 +1,11 @@
 # Machine-Learning-Using-KNN-Algorithm
 
 
-### About Dataset
+## About Dataset
 
-#### MAGIC gamma telescope data 2004
+### MAGIC gamma telescope data 2004
 
-#### Dataset Information.
+### Dataset Information.
 
 The data are MC generated (see below) to simulate registration of high energy
 gamma particles in a ground-based atmospheric Cherenkov gamma telescope using the

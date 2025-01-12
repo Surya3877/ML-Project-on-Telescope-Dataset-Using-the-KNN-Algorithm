@@ -1,7 +1,7 @@
 ### Machine Learning Project on Telescope Dataset Using the KNN Algorithm
 
 
-## About Dataset
+### About Dataset
 
 ### MAGIC gamma telescope data 2004
 

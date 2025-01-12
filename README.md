@@ -1,4 +1,4 @@
-# Machine-Learning-Using-KNN-Algorithm
+### Machine Learning Project on Telescope Dataset Using the KNN Algorithm
 
 
 ## About Dataset

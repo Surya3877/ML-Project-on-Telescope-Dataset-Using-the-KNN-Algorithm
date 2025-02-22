@@ -1,10 +1,10 @@
-📂 Dataset Description
+# 📂 Dataset Description
 
 This repository contains a dataset related to telescope observations, structured in CSV format (.csv). It can be used for data analysis, classification, and research in astronomy.
 
 🔭 Dataset Details
 
-1️⃣ Telescope Data Dataset (telescope_data.csv)
+# 1️⃣ Telescope Data Dataset (telescope_data.csv)
 
 File Format: CSV (.csv)Total Records: 19,020Columns:
 
@@ -30,7 +30,7 @@ fDist → Distance of the object (float)
 
 class → Classification label (string: g for gamma rays, h for hadrons)
 
-📊 Usage
+# 📊 Usage
 
 This dataset can be used for:
 
@@ -40,7 +40,7 @@ Understanding the characteristics of telescope observations.
 
 Machine learning and deep learning model training for classification tasks.
 
-🤖 Machine Learning Model
+# 🤖 Machine Learning Model
 
 The K-Nearest Neighbors (KNN) algorithm was used for classification. KNN is a supervised learning algorithm that classifies data points based on the majority class of their nearest neighbors.
 
